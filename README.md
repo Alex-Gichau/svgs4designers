@@ -26,7 +26,7 @@ Welcome to the SVG Logo Sourcing Tool project! This tool is designed to assist d
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/svg-logo-sourcing-tool.git
+   git clone https://github.com/alex-gichau/svg-logo-sourcing-tool.git
    ```
    
 2. Install dependencies:
