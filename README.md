@@ -12,7 +12,7 @@ Welcome to the SVG Logo Sourcing Tool project! This tool is designed to assist d
 - **User Authentication and Authorization**: Firebase Authentication (Optional)
 - **Responsive Design**: Tailwind CSS
 - **Testing Framework**: Jest (Optional)
-- **Deployment**: Heroku
+- **Deployment**: Vercel
 
 ### Features 🌟
 
