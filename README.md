@@ -6,8 +6,8 @@ Welcome to the SVG Logo Sourcing Tool project! This tool is designed to assist d
 
 - **Frontend Framework/Library**: React.js
 - **SVG Manipulation Library**: SVG.js
-- **Backend Technologies**: Node.js with Express.js (Optional)
-- **Database**: MongoDB (Optional)
+- **Backend Technologies**: Firebase (Optional)
+- **Database**: Firebase
 - **API Integration**: Clearbit Logo API, Brandfetch API, Unsplash API
 - **User Authentication and Authorization**: Firebase Authentication (Optional)
 - **Responsive Design**: Tailwind CSS
